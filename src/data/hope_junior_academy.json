@@ -1,0 +1,20 @@
+{
+    "SCHOOL_MOTTO": "Ever the best",
+    "SCHOOL_VISION": "To enable learners to rise and shine within the community",
+    "SCHOOL_MISSION": "To enable learners to expand their potential and to prepare them to become productive, responsible and compassionate members of society.",
+    "EXTRA_PROGRAMS": [
+      {
+        "PROGRAM_NAME": "Feeding program",
+        "PROGRAM_DESCRIPTION": "To enable the less fortunate learners get something to cushion them while learning"
+      }
+    ],
+    "WHY_FEEDING_PROGRAM": "With the current situation of tough economic times, providing meals is a problem and it’s a challenge for children to walk for long distances in order to get education. From research done, no child concentrates while he/she is hungry. So with this in mind we started offering feeding programs to help the child concentrate while in class and also have a positive attitude to school. They are provided with tea breaks which is uji and lunch that follows a set menu.",
+    "SCHOOL_ESTABLISHMENT": {
+      "REASON": "To meet the needs of the OVCs that were in the children’s home and also educate the community children for better and quality education.",
+      "START_YEAR": 2023,
+      "COMMUNITY_CONSULTATION": "The school started in 2023 after consultations with the community members of need of a proper school to meet learners needs and help the OVCs within the community on the importance of education.",
+      "REGISTRATION": "Yes",
+      "CURRENT_LEARNERS": 170
+    },
+    "NEWSLETTER_PURPOSE": "Support us in improving our learner’s skills and exposing them to different environs within Kenya and outside Kenya."
+  }

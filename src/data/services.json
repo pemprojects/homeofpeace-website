@@ -1,0 +1,24 @@
+{
+  "programs": [
+    {
+      "name": "Education (scholarships)",
+      "description": "Using a variety of educational approaches to build knowledge, skills, and self-confidence. The top priority of HOP, providing funds for school fees, books, and uniforms. The level of funding support is decided after certain selection criteria are met for each child. Children of basic school age are favored to maximize long-term impact. The progress of each girl, including grades and attendance, is regularly evaluated."
+    },
+    {
+      "name": "Technology",
+      "description": "Using technology to advocate, connect, and increase awareness of key issues affecting children and to support children in rural communities that are constantly learning, mobilizing, and evolving. It also aims to inspire, educate, and equip a child in a rural community with computing skills."
+    },
+    {
+      "name": "Leadership and Mentorship",
+      "description": "To change attitudes and systems, women and girls must be leaders – in protest, advocacy, representation, and mobilization. This includes providing young women with important leadership and mentoring opportunities. Meeting and hearing from role models that girls can relate to is invaluable in sparking their interest in various careers. We invite female professionals to share information about their career paths, professional and personal life, and why they think their careers are interesting. This discussion is done in small groups, inspirational talks, or round table discussions."
+    },
+    {
+      "name": "Career Skills Development",
+      "description": "Youths are stalled between school and productive work: more than a third—34%—of youths in developing countries are jobless—out of the labor force and not in school (World Bank, 2017). Although the gender gap in school enrollment has been closing, the gender gap in labor force participation is on the rise. Reaching girls during adolescence is critical—decisions made and behaviors established during this period affect their horizons later in life. During this formative period, it is important to provide adolescent girls with the tools they need to become economically empowered young women."
+    },
+    {
+      "name": "Community Advocacy",
+      "description": "HOP the communities have long been advocating for more protections to prevent adolescent girls from being forced to get married before they are ready. Fundamentally, child marriage is a violation of human rights. It’s also a harmful practice that drags down communities and economies. We also have community services for the widows, which includes the provision of blankets, sheets, food, clothes items, and building of houses in events of no houses."
+    }
+  ]
+}
