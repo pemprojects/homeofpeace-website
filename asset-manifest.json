@@ -1,25 +1,26 @@
 {
   "files": {
     "main.css": "/homeofpeace-website/static/css/main.48331880.chunk.css",
-    "main.js": "/homeofpeace-website/static/js/main.7ea5d56f.chunk.js",
-    "main.js.map": "/homeofpeace-website/static/js/main.7ea5d56f.chunk.js.map",
+    "main.js": "/homeofpeace-website/static/js/main.ed6e9f18.chunk.js",
+    "main.js.map": "/homeofpeace-website/static/js/main.ed6e9f18.chunk.js.map",
     "runtime-main.js": "/homeofpeace-website/static/js/runtime-main.41293cd8.js",
     "runtime-main.js.map": "/homeofpeace-website/static/js/runtime-main.41293cd8.js.map",
-    "static/js/2.957337bb.chunk.js": "/homeofpeace-website/static/js/2.957337bb.chunk.js",
-    "static/js/2.957337bb.chunk.js.map": "/homeofpeace-website/static/js/2.957337bb.chunk.js.map",
+    "static/js/2.74cda336.chunk.js": "/homeofpeace-website/static/js/2.74cda336.chunk.js",
+    "static/js/2.74cda336.chunk.js.map": "/homeofpeace-website/static/js/2.74cda336.chunk.js.map",
     "index.html": "/homeofpeace-website/index.html",
-    "precache-manifest.ce116316585df673ad69774b9e8cff46.js": "/homeofpeace-website/precache-manifest.ce116316585df673ad69774b9e8cff46.js",
+    "precache-manifest.e1001de857790556862e08e00beecbb4.js": "/homeofpeace-website/precache-manifest.e1001de857790556862e08e00beecbb4.js",
     "service-worker.js": "/homeofpeace-website/service-worker.js",
     "static/css/main.48331880.chunk.css.map": "/homeofpeace-website/static/css/main.48331880.chunk.css.map",
-    "static/js/2.957337bb.chunk.js.LICENSE.txt": "/homeofpeace-website/static/js/2.957337bb.chunk.js.LICENSE.txt",
+    "static/js/2.74cda336.chunk.js.LICENSE.txt": "/homeofpeace-website/static/js/2.74cda336.chunk.js.LICENSE.txt",
     "static/media/church_service.jpg": "/homeofpeace-website/static/media/church_service.60ab3e09.jpg",
     "static/media/hope_buildings.jpg": "/homeofpeace-website/static/media/hope_buildings.245986ff.jpg",
-    "static/media/hope_church_cert.jpg": "/homeofpeace-website/static/media/hope_church_cert.bb8b852f.jpg"
+    "static/media/hope_church_cert.jpg": "/homeofpeace-website/static/media/hope_church_cert.bb8b852f.jpg",
+    "static/media/hope_elite_junior_academy.jpg": "/homeofpeace-website/static/media/hope_elite_junior_academy.b67700b1.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.41293cd8.js",
-    "static/js/2.957337bb.chunk.js",
+    "static/js/2.74cda336.chunk.js",
     "static/css/main.48331880.chunk.css",
-    "static/js/main.7ea5d56f.chunk.js"
+    "static/js/main.ed6e9f18.chunk.js"
   ]
 }
