@@ -3,6 +3,7 @@ import React from 'react';
 import church from './images/church_service.jpg';
 import OrganizationDetails from './components/OrganizationDetails';
 import OrphanageDetails from './components/OrphanageDetails';
+import EliteJuniorAcademy from './components/EliteJuniorAcademy';
 import './App.css';
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
             />
             <OrganizationDetails />
             <OrphanageDetails />
+            <EliteJuniorAcademy />
         </div>
     );
 }

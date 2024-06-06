@@ -6,7 +6,7 @@ import orphanage from '../data/hope_orphanage.json';
 
 const OrphanageDetails = () => {
     return (
-        <>
+        <div className='center'>
             <h2>Home Of Peace Buildings</h2>
             <img
                 src={churchBuilding}
@@ -19,7 +19,7 @@ const OrphanageDetails = () => {
             <p>{orphanage.HISTORY}</p>
             <h2>WHY ARE THESE CHILDREN AT THE HOME</h2>
             <ul>{orphanage.WHY_ARE_THESE_CHILDREN_AT_THE_HOME.map( reasons => <li>{reasons}</li>)}</ul>
-        </>
+        </div>
     )
 }
 
