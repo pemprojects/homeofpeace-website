@@ -3,10 +3,11 @@ import React from 'react';
 import church from './images/church_service.jpg';
 import OrganizationDetails from './components/OrganizationDetails';
 import OrphanageDetails from './components/OrphanageDetails';
+import './App.css';
 
 function App() {
     return (
-        <div className="App">
+        <div>
             <h1>Home Of Peace Childrens Home</h1>
             <img
                 src={church}

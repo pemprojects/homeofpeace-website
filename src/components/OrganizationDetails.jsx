@@ -4,7 +4,7 @@ import cert from '../images/hope_church_cert.jpg';
 
 const OrganizationDetails = () => {
     return (
-        <>
+        <div className='center'>
             <h2>History</h2>
             <p>{church.HISTORY}</p>
             <h2>Mission Statement</h2>
@@ -32,7 +32,7 @@ const OrganizationDetails = () => {
             <h2>Church Operation Certificate</h2>
             <img src={cert} alt="Church operation certificate"/>
 
-        </>
+        </div>
     );
 };
 
