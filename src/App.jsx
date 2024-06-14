@@ -5,6 +5,7 @@ import OrganizationDetails from './components/OrganizationDetails';
 import OrphanageDetails from './components/OrphanageDetails';
 import EliteJuniorAcademy from './components/EliteJuniorAcademy';
 import './App.css';
+import ImageCarousel from './components/ImageCarousel';
 
 function App() {
     return (
@@ -17,6 +18,7 @@ function App() {
             <OrganizationDetails />
             <OrphanageDetails />
             <EliteJuniorAcademy />
+            <ImageCarousel />
         </div>
     );
 }

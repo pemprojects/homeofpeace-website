@@ -12,7 +12,7 @@ const OrganizationDetails = () => {
             <h2>Vision</h2>
             <ul>
                 {church.VISION.map((vision, index) => (
-                    <li>{vision}</li>
+                    <li key={index}>{vision}</li>
                 ))}
             </ul>
             <h2>Objectives</h2>
