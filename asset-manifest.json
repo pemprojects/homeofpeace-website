@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/homeofpeace-website/static/css/main.48331880.chunk.css",
-    "main.js": "/homeofpeace-website/static/js/main.9b822042.chunk.js",
-    "main.js.map": "/homeofpeace-website/static/js/main.9b822042.chunk.js.map",
+    "main.js": "/homeofpeace-website/static/js/main.f2bc2332.chunk.js",
+    "main.js.map": "/homeofpeace-website/static/js/main.f2bc2332.chunk.js.map",
     "runtime-main.js": "/homeofpeace-website/static/js/runtime-main.41293cd8.js",
     "runtime-main.js.map": "/homeofpeace-website/static/js/runtime-main.41293cd8.js.map",
-    "static/js/2.dd9963f9.chunk.js": "/homeofpeace-website/static/js/2.dd9963f9.chunk.js",
-    "static/js/2.dd9963f9.chunk.js.map": "/homeofpeace-website/static/js/2.dd9963f9.chunk.js.map",
+    "static/js/2.b9b66c29.chunk.js": "/homeofpeace-website/static/js/2.b9b66c29.chunk.js",
+    "static/js/2.b9b66c29.chunk.js.map": "/homeofpeace-website/static/js/2.b9b66c29.chunk.js.map",
     "index.html": "/homeofpeace-website/index.html",
-    "precache-manifest.465d0c2b46cab49d24b8af6202477799.js": "/homeofpeace-website/precache-manifest.465d0c2b46cab49d24b8af6202477799.js",
+    "precache-manifest.73a5278f33155edcf52d2c010fe2a986.js": "/homeofpeace-website/precache-manifest.73a5278f33155edcf52d2c010fe2a986.js",
     "service-worker.js": "/homeofpeace-website/service-worker.js",
     "static/css/main.48331880.chunk.css.map": "/homeofpeace-website/static/css/main.48331880.chunk.css.map",
-    "static/js/2.dd9963f9.chunk.js.LICENSE.txt": "/homeofpeace-website/static/js/2.dd9963f9.chunk.js.LICENSE.txt",
+    "static/js/2.b9b66c29.chunk.js.LICENSE.txt": "/homeofpeace-website/static/js/2.b9b66c29.chunk.js.LICENSE.txt",
     "static/media/church_service.jpg": "/homeofpeace-website/static/media/church_service.60ab3e09.jpg",
     "static/media/elite_junior_cert.jpg": "/homeofpeace-website/static/media/elite_junior_cert.e51cba55.jpg",
     "static/media/hope_buildings.jpg": "/homeofpeace-website/static/media/hope_buildings.245986ff.jpg",
@@ -20,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.41293cd8.js",
-    "static/js/2.dd9963f9.chunk.js",
+    "static/js/2.b9b66c29.chunk.js",
     "static/css/main.48331880.chunk.css",
-    "static/js/main.9b822042.chunk.js"
+    "static/js/main.f2bc2332.chunk.js"
   ]
 }
