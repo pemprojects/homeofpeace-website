@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d700d0a08414ea985baef881a2a0b37a",
+    "revision": "809c135fbf17661b48a5fbf6cb428de3",
     "url": "/homeofpeace-website/index.html"
   },
   {
-    "revision": "4575783f0ab8d5262ae5",
-    "url": "/homeofpeace-website/static/css/main.48331880.chunk.css"
+    "revision": "a61cb1223514e8e3984d",
+    "url": "/homeofpeace-website/static/css/main.a5f4a116.chunk.css"
   },
   {
     "revision": "371aeff167bfdeb5cc42",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/homeofpeace-website/static/js/2.b9b66c29.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4575783f0ab8d5262ae5",
-    "url": "/homeofpeace-website/static/js/main.f2bc2332.chunk.js"
+    "revision": "a61cb1223514e8e3984d",
+    "url": "/homeofpeace-website/static/js/main.2bd830a6.chunk.js"
   },
   {
     "revision": "535d7105bc061815d240",
