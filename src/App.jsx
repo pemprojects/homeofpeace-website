@@ -6,19 +6,19 @@ import OrphanageDetails from './components/OrphanageDetails';
 import EliteJuniorAcademy from './components/EliteJuniorAcademy';
 import './App.css';
 import ImageCarousel from './components/ImageCarousel';
+import Header from './components/Header';
 
 function App() {
     return (
         <div>
-            <h1>Home Of Peace Childrens Home</h1>
-            <img
-                src={church}
-                alt="church service image"
-            />
-            <OrganizationDetails />
-            <OrphanageDetails />
-            <EliteJuniorAcademy />
-            <ImageCarousel />
+            <Header />
+            <div style={{margin: 20, padding: 20}}>
+                <img src={church} alt="church service image" />
+                <OrganizationDetails />
+                <OrphanageDetails />
+                <EliteJuniorAcademy />
+                <ImageCarousel />
+            </div>
         </div>
     );
 }
