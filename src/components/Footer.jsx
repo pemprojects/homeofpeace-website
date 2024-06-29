@@ -6,7 +6,7 @@ const Footer = () => {
     let date = new Date().getFullYear();
 
     return (
-        <footer className="footer">
+        <footer className="footer" id="contact">
             <ul className="footer_contents">
                 <li style={{ textAlign: 'left' }}>
                     <div>
