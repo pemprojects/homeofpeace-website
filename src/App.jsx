@@ -13,27 +13,31 @@ import hope_buildings_img from './images/hope_buildings.jpg';
 import hope_elite_academy_img from './images/hope_elite_junior_academy.jpg';
 import hope_church_cert_img from './images/hope_church_cert.jpg';
 import elite_junior_cert from './images/elite_junior_cert.jpg';
+import Footer from './components/Footer';
 
 function App() {
     const images = [
-        {name: "Church Service", imageSrc: church_service_img},
-        {name: "Church Buildings", imageSrc: church_building_img},
-        {name: "Hope Buildings", imageSrc: hope_buildings_img},
-        {name: "Hope Elite Academy", imageSrc: hope_elite_academy_img},
-        {name: "Hope Church Certificate", imageSrc: hope_church_cert_img},
-        {name: "Elite Junior Certificate", imageSrc: elite_junior_cert},
+        { name: 'Church Service', imageSrc: church_service_img },
+        { name: 'Church Buildings', imageSrc: church_building_img },
+        { name: 'Hope Buildings', imageSrc: hope_buildings_img },
+        { name: 'Hope Elite Academy', imageSrc: hope_elite_academy_img },
+        { name: 'Hope Church Certificate', imageSrc: hope_church_cert_img },
+        { name: 'Elite Junior Certificate', imageSrc: elite_junior_cert },
     ];
     return (
-        <div>
+        <div className="site">
             <Header />
-            <div className="carousel-content">
-                <Carousel images={images} />
-            </div>
-            <div style={{ margin: 20, padding: 20 }}>
-                <OrganizationDetails />
-                <OrphanageDetails />
-                <EliteJuniorAcademy />
-            </div>
+                <article className="site-content">
+                    <div className="carousel-content">
+                        <Carousel images={images} />
+                    </div>
+                    <div>
+                        <OrganizationDetails />
+                        <OrphanageDetails />
+                        <EliteJuniorAcademy />
+                    </div>
+                </article>
+            <Footer />
         </div>
     );
 }
