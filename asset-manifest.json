@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/homeofpeace-website/static/css/main.cae5e749.chunk.css",
-    "main.js": "/homeofpeace-website/static/js/main.56df9f1a.chunk.js",
-    "main.js.map": "/homeofpeace-website/static/js/main.56df9f1a.chunk.js.map",
+    "main.js": "/homeofpeace-website/static/js/main.5c8e3f47.chunk.js",
+    "main.js.map": "/homeofpeace-website/static/js/main.5c8e3f47.chunk.js.map",
     "runtime-main.js": "/homeofpeace-website/static/js/runtime-main.41293cd8.js",
     "runtime-main.js.map": "/homeofpeace-website/static/js/runtime-main.41293cd8.js.map",
     "static/css/2.9088b396.chunk.css": "/homeofpeace-website/static/css/2.9088b396.chunk.css",
     "static/js/2.467296d5.chunk.js": "/homeofpeace-website/static/js/2.467296d5.chunk.js",
     "static/js/2.467296d5.chunk.js.map": "/homeofpeace-website/static/js/2.467296d5.chunk.js.map",
     "index.html": "/homeofpeace-website/index.html",
-    "precache-manifest.94dcaf91de6763826ca75c4b14639c41.js": "/homeofpeace-website/precache-manifest.94dcaf91de6763826ca75c4b14639c41.js",
+    "precache-manifest.8cb502c0e813cd7e8bf5ad8f6a32c634.js": "/homeofpeace-website/precache-manifest.8cb502c0e813cd7e8bf5ad8f6a32c634.js",
     "service-worker.js": "/homeofpeace-website/service-worker.js",
     "static/css/2.9088b396.chunk.css.map": "/homeofpeace-website/static/css/2.9088b396.chunk.css.map",
     "static/css/main.cae5e749.chunk.css.map": "/homeofpeace-website/static/css/main.cae5e749.chunk.css.map",
@@ -27,6 +27,6 @@
     "static/css/2.9088b396.chunk.css",
     "static/js/2.467296d5.chunk.js",
     "static/css/main.cae5e749.chunk.css",
-    "static/js/main.56df9f1a.chunk.js"
+    "static/js/main.5c8e3f47.chunk.js"
   ]
 }
