@@ -1,15 +1,13 @@
-# Getting Started with Create React App
+# React Application for Home Of Peace Website (NGO)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project has been created using React product of facebook and some dependencies include bootstrap
 
-## Available Scripts
-
-After cloning the app from the git repository.
-In the project directory, you can run:
-
+## Running App
 ### `npm start`
 
-Runs the app in the development mode.\
+After cloning the app from the git repository. Run npm start after moving to the project folder.
+
+Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
@@ -24,12 +22,14 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### Deployment
+
+### `npm run predeploy`
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
+A pre-deploy job is an optional task that runs after each build, but before all your services are deployed. It is commonly used for preliminary tasks which are required for your services to run, such as a database migration or seeding. Note: any commands that are used to build your application should not be included in a pre-deploy job, as the build will already be completed by the time the pre-deploy job is run.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### `npm run deploy` 
+
+Builds the file and deploys to github pages
