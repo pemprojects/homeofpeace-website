@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import orphanage from '../data/hope_orphanage.json';
 import 'bootstrap-icons/font/bootstrap-icons.css';
 
@@ -30,7 +30,7 @@ const Footer = () => {
                 </li>
                 <li style={{ textAlign: 'right' }}>
                     <div>
-                        <p>Copyright © {date} Purpose on the Planet</p>
+                        <p>Copyright © {date} All rights reserved</p>
                         <p>approved 501(c)(3) non-profit organization</p>
                     </div>
                 </li>

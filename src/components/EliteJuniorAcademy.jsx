@@ -1,6 +1,5 @@
 import React from 'react';
 import elite_academy from '../data/hope_junior_academy.json';
-import junior_academy_cert  from '../images/elite_junior_cert.jpg';
 
 const EliteJuniorAcademy = () => {
     return (
@@ -25,7 +24,6 @@ const EliteJuniorAcademy = () => {
             {elite_academy.LEARNERS}
             <h3>Why this newsletter</h3>
             {elite_academy.NEWSLETTER_PURPOSE}
-            <img src={junior_academy_cert} alt="Elite junior certificate" />
         </div>
     )
 }

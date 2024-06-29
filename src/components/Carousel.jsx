@@ -1,21 +1,21 @@
 import React from 'react';
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 
 const Carousel = ({ images, autoplaySpeed = 3000 }) => {
     const [currentIndex, setCurrentIndex] = useState(0);
 
-    let autoplayInterval; // Variable to store the interval reference
+    const autoplayIntervalRef = useRef(null); // Variable to store the interval reference
 
     useEffect(() => {
-        autoplayInterval = setInterval(() => {
+        autoplayIntervalRef.current = setInterval(() => {
             const nextIndex =
                 currentIndex === images.length - 1 ? 0 : currentIndex + 1;
             setCurrentIndex(nextIndex);
         }, autoplaySpeed);
 
         // Cleanup function to clear the interval when the component unmounts
-        return () => clearInterval(autoplayInterval);
-    }, [currentIndex]);
+        return () => clearInterval(autoplayIntervalRef.current);
+    }, [currentIndex, images, autoplaySpeed]);
 
     // Dependencies
     // currentIndex, images, autoplaySpeed

@@ -25,9 +25,9 @@ function App() {
         { name: 'Elite Junior Certificate', imageSrc: elite_junior_cert },
     ];
     return (
-        <div className="site">
+        <div>
             <Header />
-                <article className="site-content">
+                <article>
                     <div className="carousel-content">
                         <Carousel images={images} />
                     </div>

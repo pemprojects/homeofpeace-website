@@ -1,11 +1,21 @@
 import React from 'react';
 import church from '../data/hope_church.json';
+import orphanage from '../data/hope_orphanage.json';
 
 const OrganizationDetails = () => {
     return (
-        <div className="center">
-            <h2>History</h2>
-            <p>{church.HISTORY}</p>
+        <div className="center" id="about">
+            <section class="content-section">
+                <div className="left-item">
+                    <h3 className="center">Christian International Ministry</h3>
+                    <p>{church.HISTORY}</p>
+                </div>
+                <div className="left-item">
+                    <h1 className="center">Childrens Home</h1>
+                    <p>{orphanage.HISTORY}</p>
+                </div>
+            </section>
+
             <h2>Mission Statement</h2>
             <p>{church.MISSION_STATEMENT}</p>
             <h2>Vision</h2>
