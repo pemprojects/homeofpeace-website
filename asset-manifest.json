@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/homeofpeace-website/static/css/main.82842a6c.chunk.css",
-    "main.js": "/homeofpeace-website/static/js/main.ff509a83.chunk.js",
-    "main.js.map": "/homeofpeace-website/static/js/main.ff509a83.chunk.js.map",
+    "main.css": "/homeofpeace-website/static/css/main.4db1c65d.chunk.css",
+    "main.js": "/homeofpeace-website/static/js/main.59407f9a.chunk.js",
+    "main.js.map": "/homeofpeace-website/static/js/main.59407f9a.chunk.js.map",
     "runtime-main.js": "/homeofpeace-website/static/js/runtime-main.41293cd8.js",
     "runtime-main.js.map": "/homeofpeace-website/static/js/runtime-main.41293cd8.js.map",
     "static/css/2.9088b396.chunk.css": "/homeofpeace-website/static/css/2.9088b396.chunk.css",
     "static/js/2.5192e834.chunk.js": "/homeofpeace-website/static/js/2.5192e834.chunk.js",
     "static/js/2.5192e834.chunk.js.map": "/homeofpeace-website/static/js/2.5192e834.chunk.js.map",
     "index.html": "/homeofpeace-website/index.html",
-    "precache-manifest.c85f6a39ea2dec32f1d80b1ae5dfd2bf.js": "/homeofpeace-website/precache-manifest.c85f6a39ea2dec32f1d80b1ae5dfd2bf.js",
+    "precache-manifest.c1fa047fb6e76addd9e73aa1df4a96f6.js": "/homeofpeace-website/precache-manifest.c1fa047fb6e76addd9e73aa1df4a96f6.js",
     "service-worker.js": "/homeofpeace-website/service-worker.js",
     "static/css/2.9088b396.chunk.css.map": "/homeofpeace-website/static/css/2.9088b396.chunk.css.map",
-    "static/css/main.82842a6c.chunk.css.map": "/homeofpeace-website/static/css/main.82842a6c.chunk.css.map",
+    "static/css/main.4db1c65d.chunk.css.map": "/homeofpeace-website/static/css/main.4db1c65d.chunk.css.map",
     "static/js/2.5192e834.chunk.js.LICENSE.txt": "/homeofpeace-website/static/js/2.5192e834.chunk.js.LICENSE.txt",
     "static/media/bootstrap-icons.css": "/homeofpeace-website/static/media/bootstrap-icons.cc1e5eda.woff2",
     "static/media/church_building.jpg": "/homeofpeace-website/static/media/church_building.df623445.jpg",
@@ -26,7 +26,7 @@
     "static/js/runtime-main.41293cd8.js",
     "static/css/2.9088b396.chunk.css",
     "static/js/2.5192e834.chunk.js",
-    "static/css/main.82842a6c.chunk.css",
-    "static/js/main.ff509a83.chunk.js"
+    "static/css/main.4db1c65d.chunk.css",
+    "static/js/main.59407f9a.chunk.js"
   ]
 }
