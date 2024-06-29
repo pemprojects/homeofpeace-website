@@ -1,7 +1,6 @@
 /* eslint-disable jsx-a11y/img-redundant-alt */
 import React from 'react';
 import OrganizationDetails from './components/OrganizationDetails';
-import OrphanageDetails from './components/OrphanageDetails';
 import EliteJuniorAcademy from './components/EliteJuniorAcademy';
 import Carousel from './components/Carousel';
 import Header from './components/Header';
@@ -31,9 +30,8 @@ function App() {
                     <div className="carousel-content">
                         <Carousel images={images} />
                     </div>
-                    <div id="about">
+                    <div>
                         <OrganizationDetails />
-                        <OrphanageDetails />
                         <EliteJuniorAcademy />
                     </div>
                 </article>
