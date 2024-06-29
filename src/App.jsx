@@ -24,17 +24,17 @@ function App() {
         { name: 'Elite Junior Certificate', imageSrc: elite_junior_cert },
     ];
     return (
-        <div>
+        <div style={{ position: "absolute", left: 0, right: 0 }}>
             <Header />
-                <article>
-                    <div className="carousel-content">
-                        <Carousel images={images} />
-                    </div>
-                    <div>
-                        <OrganizationDetails />
-                        <EliteJuniorAcademy />
-                    </div>
-                </article>
+            <article>
+                <div className="carousel-content">
+                    <Carousel images={images} />
+                </div>
+                <div>
+                    <OrganizationDetails />
+                    <EliteJuniorAcademy />
+                </div>
+            </article>
             <Footer />
         </div>
     );
