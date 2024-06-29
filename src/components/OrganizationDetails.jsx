@@ -4,7 +4,7 @@ import orphanage from '../data/hope_orphanage.json';
 
 const OrganizationDetails = () => {
     return (
-        <div className="center" id="about">
+        <div className="center">
             <section class="content-section">
                 <div className="left-item">
                     <h3 className="center">Christian International Ministry</h3>

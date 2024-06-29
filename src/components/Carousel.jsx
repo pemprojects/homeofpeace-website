@@ -1,5 +1,6 @@
 import React from 'react';
 import { useState, useEffect, useRef } from 'react';
+import church from '../data/hope_church.json';
 
 const Carousel = ({ images, autoplaySpeed = 3000 }) => {
     const [currentIndex, setCurrentIndex] = useState(0);
@@ -53,8 +54,22 @@ const Carousel = ({ images, autoplaySpeed = 3000 }) => {
                             alt={`Slide ${index}`}
                             className="carousel-image"
                         />
-                        <div className="carousel-caption">
-                            {images[currentIndex].name}
+                        <div
+                            className="carousel-caption"
+                            style={{
+                                opacity: 1,
+                                fontSize: '1em',
+                                fontWeight: 'bold',
+                                fontStyle: 'italic',
+                            }}
+                        >
+                            {/* images[currentIndex].name} */}
+                            Mission: {church.MISSION_STATEMENT} <br />
+                            <br />
+                            Vision:{' '}
+                            {church.VISION.map((vision, index) => (
+                                <li key={index} style={{listStyleType: "none"}}>{vision}</li>
+                            ))}
                         </div>
                     </div>
                 ))}

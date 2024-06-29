@@ -8,11 +8,6 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-        monospace;
-}
-
 header {
     background-color: #333;
     color: white;
@@ -188,8 +183,8 @@ img {
 .content-section {
     display: grid;
     grid-template-columns: 1fr 1fr;
+    border-radius: 10px ;
     gap: 0px;
-    /* padding: 20px; */
 }
 
 .left-item,

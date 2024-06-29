@@ -31,7 +31,7 @@ function App() {
                     <div className="carousel-content">
                         <Carousel images={images} />
                     </div>
-                    <div>
+                    <div id="about">
                         <OrganizationDetails />
                         <OrphanageDetails />
                         <EliteJuniorAcademy />
