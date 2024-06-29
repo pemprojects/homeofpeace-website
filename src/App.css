@@ -109,6 +109,12 @@ img {
     display: block;
 }
 
+@media (max-width: 500px) {
+  .carousel-image {
+      width: 80% auto; /* Adjust percentage as needed */
+  }
+}
+
 .carousel-item {
     display: none;
     position: absolute;
@@ -183,7 +189,7 @@ img {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 0px;
-    padding: 20px;
+    /* padding: 20px; */
 }
 
 .left-item,
