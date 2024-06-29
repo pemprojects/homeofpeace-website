@@ -1,27 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "872bb7c9367eb2569a364a23f1089727",
+    "revision": "d7b03b1849c5bce3f8e9b38d4dfdb33c",
     "url": "/homeofpeace-website/index.html"
   },
   {
-    "revision": "a7c0172c82edfa9f90d8",
-    "url": "/homeofpeace-website/static/css/main.52178c66.chunk.css"
+    "revision": "9c6197f2bb1345e54d70",
+    "url": "/homeofpeace-website/static/css/2.9088b396.chunk.css"
   },
   {
-    "revision": "74ea7881e6cfa78bbc8e",
-    "url": "/homeofpeace-website/static/js/2.f275a7fb.chunk.js"
+    "revision": "ae7162a3527b5ba6dabb",
+    "url": "/homeofpeace-website/static/css/main.cae5e749.chunk.css"
+  },
+  {
+    "revision": "9c6197f2bb1345e54d70",
+    "url": "/homeofpeace-website/static/js/2.467296d5.chunk.js"
   },
   {
     "revision": "60f6bf9e100e456690e9ab6c9a37bfc2",
-    "url": "/homeofpeace-website/static/js/2.f275a7fb.chunk.js.LICENSE.txt"
+    "url": "/homeofpeace-website/static/js/2.467296d5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a7c0172c82edfa9f90d8",
-    "url": "/homeofpeace-website/static/js/main.a0bcf7ee.chunk.js"
+    "revision": "ae7162a3527b5ba6dabb",
+    "url": "/homeofpeace-website/static/js/main.56df9f1a.chunk.js"
   },
   {
     "revision": "535d7105bc061815d240",
     "url": "/homeofpeace-website/static/js/runtime-main.41293cd8.js"
+  },
+  {
+    "revision": "ba49e844892321d8540ea3b7c088cf97",
+    "url": "/homeofpeace-website/static/media/bootstrap-icons.ba49e844.woff"
+  },
+  {
+    "revision": "cc1e5eda776be5f0ff614285c31d4892",
+    "url": "/homeofpeace-website/static/media/bootstrap-icons.cc1e5eda.woff2"
   },
   {
     "revision": "df62344595135ee308001ccd4267802a",
