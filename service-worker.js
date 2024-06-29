@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/homeofpeace-website/precache-manifest.a9ab48a575367573839b118efd71d6b9.js"
+  "/homeofpeace-website/precache-manifest.be932af06f5c735d23ce82a748c4750c.js"
 );
 
 self.addEventListener('message', (event) => {
